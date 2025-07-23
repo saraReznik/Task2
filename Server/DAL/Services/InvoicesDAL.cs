@@ -4,7 +4,7 @@ using Microsoft.EntityFrameworkCore;
 using DAL.Models;
 using DAL.Api;
 
-namespace DAL.Logic
+namespace DAL.Services
 {
     public class InvoicesDAL : IInvoicesDAL
     {

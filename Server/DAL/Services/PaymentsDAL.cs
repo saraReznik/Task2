@@ -5,7 +5,7 @@ using Microsoft.EntityFrameworkCore;
 using System.Collections.Generic;
 using System.Threading.Tasks;
 
-namespace DAL.Logic
+namespace DAL.Services
 {
     public class PaymentsDAL : IPaymentsDAL
     {
