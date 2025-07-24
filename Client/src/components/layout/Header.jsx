@@ -1,5 +1,5 @@
 import React from 'react';
-import profileImage from '../../assets/profile.png'; // נתיב לתמונה
+import profileImage from '../../assets/profile.png'; 
 
 const Header = () => (
   <header className="ml-60 h-16 flex items-center justify-between px-8">
